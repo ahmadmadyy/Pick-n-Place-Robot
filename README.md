@@ -7,7 +7,9 @@
 ### 3. To actuate motor 3: the slider sends 'O' + value + 'C' , "letter o not zero"
 ### 4. To actuate the gripper: the slider sends 'A' + value + 'P'
 
+## Presentation Link: https://prezi.com/view/AibA9CjhAZZIK2KCSfq9/
+
 ## Youtube Video:
 [![Video](https://img.youtube.com/vi/tbpiK-iGnyA/maxresdefault.jpg)](https://youtu.be/tbpiK-iGnyA)
 
-## Presentation Link: https://prezi.com/view/AibA9CjhAZZIK2KCSfq9/
+
