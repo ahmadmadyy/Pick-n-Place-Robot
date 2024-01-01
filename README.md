@@ -1,5 +1,5 @@
 # Pick-n-Place-Robot
-## A 4 DOF Robotic Manipulator used for pick and place that uses embedded c++, servo motors, bluetooth module, USART, Timers, OLED, and I2C.
+## A 4 DOF Robotic Manipulator used for pick and place that uses embedded c++, servo motors, bluetooth module, USART, Timers, OLED, and I2C. The code is file Robot Arm for C++. The rest of the files are to test each module seperately like the servo, the oled, the bluetooth module, and their integrations. 
 
 ## The bluetooth data is sent from a smartphone application: Bluetooth Electronics application from playstore. 
 ### 1. To actuate motor 1: the slider sends 'M' + value + 'A'
